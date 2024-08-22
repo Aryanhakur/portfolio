@@ -350,7 +350,11 @@ summary {
   display: list-item;
   cursor: pointer;
 }
-
+.beauty{
+  width: 40px;
+  height: 40px;
+  padding-right: 5px;
+}
 template {
   display: none;
 }
